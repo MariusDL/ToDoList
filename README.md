@@ -5,9 +5,9 @@ ToDoList
 This android app helps you remember your tasks by storing them on you mobile phone
 
 ## Project Features
-Create a user account
-All the data is stored in a remote database (Firebase)
-Easy to use UI
+Create a user account<br>
+All the data is stored in a remote database (Firebase)<br>
+Easy to use UI<br>
 
 ## Prerequisites
 Android Oreo
